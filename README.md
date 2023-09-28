@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![info](./meishuzi.jpg)
+![info](./meishu.jpg)
 
 - 🌱 I like coding
 - ⚡I am from ShangHai, China
