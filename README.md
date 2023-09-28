@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![info](./meishu.jpg)
 
 - 🌱 I like coding
 - ⚡I am from ShangHai, China
@@ -33,5 +32,6 @@ http://github-readme-streak-stats.herokuapp.com/demo/
 
 https://liyasthomas.github.io/banner/
 
+![info](./meishu.jpg)
 
 -->
