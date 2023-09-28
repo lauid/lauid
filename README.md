@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+
+![info](./meishu.jpg)
 
 
 - 🌱 I like coding
@@ -8,9 +11,38 @@
 
 
 
-![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauid&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauid)](https://git.io/streak-stats)
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauid&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauid)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lauid&row=2&column=4)](https://github.com/lauid/github-profile-trophy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauid&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
