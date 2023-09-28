@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauid&label=Profile%20views&color=0e75b6&style=flat" alt="lauid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauid&row=1" alt="lauid" /></a> </p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="66499920-9381-44b8-809b-0743d5f4dc9d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<p align="left"> <a href="https://github.com/lauid/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauid&row=1" alt="lauid" /></a> </p>
 
 - 🌱 I’m currently learning **flink**
 
