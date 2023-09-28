@@ -6,7 +6,7 @@
 - ⚡I am from ShangHai, China
 - 📫 You can contact me by email
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauid)](https://git.io/streak-stats)
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauid&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauid)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauid&size_weight=1&count_weight=0) [![trophy](https://github-profile-trophy.vercel.app/?username=lauid&theme=flat&&no-frame=true)](https://github.com/lauid/github-profile-trophy)
