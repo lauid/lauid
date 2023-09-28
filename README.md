@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![info](./lewis-info.png)
 
 - 🌱 I like coding
 - ⚡I am from ShangHai, China
