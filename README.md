@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🌱 I like coding
+- ⚡I am from ShangHai, China
+- 📫 You can contact me by email
+
 <!--
 **lauid/lauid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
